@@ -16,4 +16,3 @@ Beerware licences to tui và mấy ông viết ra code đó.
 
 Có thể xem report sơ của dòng malware này ở đây:
 
-https://research.checkpoint.com/2019/rancor-the-year-of-the-phish/
